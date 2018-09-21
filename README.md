@@ -5,9 +5,9 @@ but not in this case.
 here this code is designed in such a way that you can get a feel of real calculator.
 which you guys are using in your daily life.
 
-How to run?
-just download the file
-set the environment variabale
-open cmd
-and run the file
-and start calculating.
+--How to run?
+1.just download the file
+2.set the environment variabale
+3.open cmd
+4.and run the file
+5.and start calculating.
